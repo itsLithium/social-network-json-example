@@ -1,37 +1,46 @@
-[
-  {
-    "userId": 1,
-    "id": 1,
-    "userName": "RedFlower12",
-    "text": "Hi folks, Something Ive been curious about is how Shodan manages to grab screenshots of unauthenticated Console sessions (RDP Screenshots) on machines newer than Server 2003, and how I can do the same from my machine. On Server 2003 and older, you can use the -console flag with mstsc.exe (e.g.",
-    "img-url": ""
-  },
-  {
-    "userId": 2,
-    "id": 2,
-    "userName": "BlackLothus",
-    "text": "",
-    "img-url": "https://www.matawebsite.com/images/blog/436_flutter_flexible_widget.jpg"
-  },
-  {
-    "userId": 3,
-    "id": 3,
-    "userName": "Lithium",
-    "text": "hi am still learning so I may not know enough, but I am wondering y the design aspect is neglected at the beginning of learning how to be a web dev or front-end, I feel like being comfortable with visual tools would make whatever project your working on better keep track of.",
-    "img-url": ""
-  },
-  {
-    "userId": 4,
-    "id": 4,
-    "userName": "parse231",
-    "text": "",
-    "img-url": "https://i.redd.it/qhl3zfpph5c91.png"
-  },
-  {
-    "userId": 5,
-    "id": 5,
-    "userName": "apple122",
-    "text": "",
-    "img-url": "https://miro.medium.com/max/1400/0*22FkfJ_X4zfachDO.png"
-  }
-]
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1,
+      "text": "Hi folks, Something Ive been curious about is how Shodan manages to grab screenshots of unauthenticated Console sessions (RDP Screenshots) on machines newer than Server 2003, and how I can do the same from my machine. On Server 2003 and older, you can use the -console flag with mstsc.exe (e.g.",
+      "img-url": ""
+    },
+    {
+      "userId": 2,
+      "id": 2,
+      "text": "",
+      "img-url": "https://www.matawebsite.com/images/blog/436_flutter_flexible_widget.jpg"
+    },
+    {
+      "userId": 3,
+      "id": 3,
+      "text": "hi am still learning so I may not know enough, but I am wondering y the design aspect is neglected at the beginning of learning how to be a web dev or front-end, I feel like being comfortable with visual tools would make whatever project your working on better keep track of.",
+      "img-url": ""
+    },
+    {
+      "userId": 4,
+      "id": 4,
+      "text": "",
+      "img-url": "https://i.redd.it/qhl3zfpph5c91.png"
+    }
+  ],
+   "users":[
+    {
+      "userId": 1,
+      "userName": "RedFlower12"
+    },
+    {
+      "userId": 2,
+      "userName": "BlackLothus"
+    },
+    {
+      "userId": 3,
+      "userName": "Lithium"
+    },
+    {
+      "userId": 4,
+      "userName": "parse231"
+    },
+  ]
+}
