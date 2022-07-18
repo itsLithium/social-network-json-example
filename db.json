@@ -3,17 +3,26 @@
     {
       "id": 1,
       "userId": 1,
-      "title": "Post 1"
+      "title": "Post 1",
+      "img-url": "Hi folks, Something Ive been curious about is how Shodan manages to grab screenshots of unauthenticated Console sessions (RDP Screenshots) on machines newer than Server 2003, and how I can do the same from my machine. On Server 2003 and older, you can use the -console flag with mstsc.exe"
     },
     {
       "id": 2,
       "userId": 2,
-      "title": "Post 2"
+      "title": "Post 2",
+      "img-url": "https://www.matawebsite.com/images/blog/436_flutter_flexible_widget.jpg"
     },
     {
       "id": 3,
       "userId": 3,
-      "title": "Post 3"
+      "title": "hi am still learning so I may not know enough, but I am wondering y the design aspect is neglected at the beginning of learning how to be a web dev or front-end, I feel like being comfortable with visual tools would make whatever project your working on better keep track of.",
+      "img-url": ""
+    },
+    {
+      "id": 4,
+      "userId": 4,
+      "title": "Post 3",
+      "img-url": "https://i.redd.it/qhl3zfpph5c91.png"
     }
   ],
   "users": [
