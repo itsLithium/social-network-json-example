@@ -65,20 +65,26 @@
       "communityName": "roblox"
     }
   ],
-  "postsData": [
+  "postData": [
     {
+      "userId": 1,
       "userName": "Lithium",
-      "communityName": "Coding",
-      "title": "need help with this",
-      "body": "im making a flutter project and throws this error. CategoryInfo: ObjectNotFound: (flutter:String) [], CommandNotFoundException",
-      "img-url": ""
+      "communityName": "Coding"
     },
     {
-      "userName": "lothus31",
-      "communityName": "Roblox",
-      "title": "Making this",
-      "body": "",
-      "img-url": "https://i.redd.it/qhl3zfpph5c91.png"
+      "userId": 2,
+      "userName": "Lothus134",
+      "communityName": "Programming"
+    },
+    {
+      "userId": 3,
+      "userName": "lumos31",
+      "communityName": "Pokemon"
+    },
+    {
+      "userId": 4,
+      "userName": "mineadt1",
+      "communityName": "roblox"
     }
   ],
   "profile": {
