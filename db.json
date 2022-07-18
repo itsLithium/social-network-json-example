@@ -3,8 +3,8 @@
     {
       "id": 1,
       "userId": 1,
-      "title": "Post 1",
-      "img-url": "Hi folks, Something Ive been curious about is how Shodan manages to grab screenshots of unauthenticated Console sessions (RDP Screenshots) on machines newer than Server 2003, and how I can do the same from my machine. On Server 2003 and older, you can use the -console flag with mstsc.exe"
+      "title": "Hi folks, Something Ive been curious about is how Shodan manages to grab screenshots of unauthenticated Console sessions (RDP Screenshots) on machines newer than Server 2003, and how I can do the same from my machine. On Server 2003 and older, you can use the -console flag with mstsc.exe",
+      "img-url": ""
     },
     {
       "id": 2,
