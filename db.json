@@ -69,22 +69,34 @@
     {
       "userId": 1,
       "userName": "Lithium",
-      "communityName": "Coding"
+      "communityName": "Coding",
+      "title": "",
+      "body": "",
+      "img-url": ""
     },
     {
       "userId": 2,
       "userName": "Lothus134",
       "communityName": "Programming"
+      "title": "",
+      "body": "",
+      "img-url": ""
     },
     {
       "userId": 3,
       "userName": "lumos31",
       "communityName": "Pokemon"
+      "title": "",
+      "body": "",
+      "img-url": ""
     },
     {
       "userId": 4,
       "userName": "mineadt1",
       "communityName": "roblox"
+      "title": "",
+      "body": "",
+      "img-url": ""
     }
   ],
   "profile": {
