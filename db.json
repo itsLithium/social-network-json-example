@@ -1,47 +1,29 @@
 {
   "posts": [
     {
-      "userId": 1,
-      "postId": 1,
-      "text": "Hi folks, Something Ive been curious about is how Shodan manages to grab screenshots of unauthenticated Console sessions (RDP Screenshots) on machines newer than Server 2003, and how I can do the same from my machine. On Server 2003 and older, you can use the -console flag with mstsc.exe (e.g.",
-      "img-url": ""
+      "id": 1,
+      "title": "Post 1"
     },
     {
-      "userId": 2,
-      "postId": 2,
-      "text": "",
-      "img-url": "https://www.matawebsite.com/images/blog/436_flutter_flexible_widget.jpg"
+      "id": 2,
+      "title": "Post 2"
     },
     {
-      "userId": 3,
-      "postId": 3,
-      "text": "hi am still learning so I may not know enough, but I am wondering y the design aspect is neglected at the beginning of learning how to be a web dev or front-end, I feel like being comfortable with visual tools would make whatever project your working on better keep track of.",
-      "img-url": ""
-    },
-    {
-      "userId": 4,
-      "postId": 4,
-      "text": "",
-      "img-url": "https://i.redd.it/qhl3zfpph5c91.png"
+      "id": 3,
+      "title": "Post 3"
     }
   ],
-  "users": [
+  "comments": [
     {
-      "userId": 1,
-      "userName": "RedFlower12"
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
     },
     {
-      "userId": 2,
-      "userName": "BlackLothus"
-    },
-    {
-      "userId": 3,
-      "userName": "Lithium"
-    },
-    {
-      "userId": 4,
-      "userName": "parse231"
-    },
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
   ],
   "profile": {
     "name": "typicode"
