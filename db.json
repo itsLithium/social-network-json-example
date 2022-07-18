@@ -25,14 +25,26 @@
       "img-url": "https://i.redd.it/qhl3zfpph5c91.png"
     }
   ],
-  "users": [
+  "postInfo": [
     {
-      "id": 1,
-      "body": "some comment"
+      "userId": 1,
+      "userName": "Lithium",
+      "communityName": "Coding"
     },
     {
-      "id": 2,
-      "body": "some comment"
+      "userId": 2,
+      "userName": "Lothus134",
+      "communityName": "Programming"
+    },
+    {
+      "userId": 3,
+      "userName": "lumos31",
+      "communityName": "Pokemon"
+    },
+    {
+      "userId": 4,
+      "userName": "mineadt1",
+      "communityName": "roblox"
     }
   ],
   "profile": {
