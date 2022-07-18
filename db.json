@@ -23,6 +23,24 @@
       "userId": 4,
       "title": "Post 3",
       "img-url": "https://i.redd.it/qhl3zfpph5c91.png"
+    },
+    {
+      "id": 5,
+      "userId": 4,
+      "title": "Post 3",
+      "img-url": "https://i.redd.it/qhl3zfpph5c91.png"
+    },
+    {
+      "id": 6,
+      "userId": 4,
+      "title": "Post 3",
+      "img-url": "https://i.redd.it/qhl3zfpph5c91.png"
+    },
+    {
+      "id": 7,
+      "userId": 4,
+      "title": "Post 3",
+      "img-url": "https://i.redd.it/qhl3zfpph5c91.png"
     }
   ],
   "postInfo": [
